@@ -1,0 +1,85 @@
+[
+    [
+        {
+            "stt": "1",
+            "order": "Bald cut",
+            "customerName": "Nguyen Van A",
+            "time": "14:30:00",
+            "stylist": "Bui Thi H",
+            "status": "Booked"
+        },
+        {
+            "stt": "2",
+            "order": "Long cut",
+            "customerName": "Tran Van K",
+            "time": "13:30:00",
+            "stylist": "Bui Thi H",
+            "status": "Booked"
+        },
+        {
+            "stt": "3",
+            "order": "Short cut",
+            "customerName": "Tran Thi T",
+            "time": "09:45:00",
+            "stylist": "Nguyen Ba H",
+            "status": "Booked"
+        }
+    ],
+    [
+        {
+            "stt": "1",
+            "order": "Short Cut",
+            "customerName": "Luong Ba T",
+            "time": "10:15:00",
+            "stylist": "Bui Thi H",
+            "status": "Finished"
+        },
+        {
+            "stt": "2",
+            "order": "Red dye",
+            "customerName": "Luong Ba T",
+            "time": "11:15:00",
+            "stylist": "Bui Thi H",
+            "status": "Cancelled"
+        },
+        {
+            "stt": "3",
+            "order": "Short Cut",
+            "customerName": "Luong Ba T",
+            "time": "10:15:00",
+            "stylist": "Bui Thi H",
+            "status": "Finished"
+        },
+        {
+            "stt": "4",
+            "order": "Red dye",
+            "customerName": "Luong Ba T",
+            "time": "11:15:00",
+            "stylist": "Bui Thi H",
+            "status": "Finished"
+        }
+    ],
+    [
+        {
+            "stt": "1",
+            "employeeName": "Bui Thi H",
+            "employeeTitle": "Stylist",
+            "phone": "042 412 6234",
+            "status": "Occupied"
+        },
+        {
+            "stt": "2",
+            "employeeName": "Hoang Thanh H",
+            "employeeTitle": "Stylist",
+            "phone": "042 412 6234",
+            "status": "Occupied"
+        },
+        {
+            "stt": "3",
+            "employeeName": "Tran Quang T",
+            "employeeTitle": "Stylist",
+            "phone": "093 923 8234",
+            "status": "Idle"
+        }
+    ]
+]

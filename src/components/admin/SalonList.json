@@ -1,0 +1,77 @@
+{
+    "data": [
+        {
+            "salonId": 1,
+            "nameSalon": "Tiệp Nguyễn Hair Salon",
+            "phone": "0826368193",
+            "taxCode": "123",
+            "timeOpen": "08:00:00",
+            "timeClose": "20:00:00",
+            "city": "Hà Nội",
+            "district": "Hoàn Kiếm",
+            "dateJoin": "24/12/2020",
+            "detailAddress": "Số 60 Lê Duẩn, Quận Hoàn Kiếm, TP Hà Nội",
+            "email": "duymche130521@fpt.edu.vn",
+            "account_id": 2,
+            "image": "https://toplist.vn/images/800px/terre-hair-salon-429398.jpg",
+            "description": " là một địa chỉ cắt tóc nam ngắn đẹp ở Hà Nội giá khá bình dân nhưng chất lượng làm tóc thì hiếm khi mà chê được. Xem qua những “feedback” của khách hàng, có thể thấy phần lớn đều hài lòng về sự phục vụ chu đáo của các nhân viên tiệm.",
+            "AverangeVote": 4.5,
+            "nameOwner": "Nguyễn Hữu Tiệp"
+        },
+        {
+            "salonId": 2,
+            "nameSalon": "Tiệp Nguyễn Hair Salon",
+            "phone": "0826368193",
+            "taxCode": "123",
+            "timeOpen": "08:00:00",
+            "timeClose": "20:00:00",
+            "city": "Hà Nội",
+            "district": "Hoàn Kiếm",
+            "dateJoin": "02/06/2019",
+            "detailAddress": "Số 60 Lê Duẩn, Quận Hoàn Kiếm, TP Hà Nội",
+            "email": "duymche130521@fpt.edu.vn",
+            "account_id": 3,
+            "image": "https://toplist.vn/images/800px/terre-hair-salon-429398.jpg",
+            "description": " là một địa chỉ cắt tóc nam ngắn đẹp ở Hà Nội giá khá bình dân nhưng chất lượng làm tóc thì hiếm khi mà chê được. Xem qua những “feedback” của khách hàng, có thể thấy phần lớn đều hài lòng về sự phục vụ chu đáo của các nhân viên tiệm.",
+            "AverangeVote": 4.5,
+            "nameOwner": "Nguyễn Hữu Tiệp"
+        },
+        {
+            "salonId": 3,
+            "nameSalon": "Tiệp Nguyễn Hair Salon",
+            "phone": "0826368193",
+            "taxCode": "123",
+            "timeOpen": "08:00:00",
+            "timeClose": "20:00:00",
+            "city": "Hà Nội",
+            "district": "Hoàn Kiếm",
+            "dateJoin": "12/04/2020",
+            "detailAddress": "Số 60 Lê Duẩn, Quận Hoàn Kiếm, TP Hà Nội",
+            "email": "duymche130521@fpt.edu.vn",
+            "account_id": 4,
+            "image": "https://toplist.vn/images/800px/terre-hair-salon-429398.jpg",
+            "description": " là một địa chỉ cắt tóc nam ngắn đẹp ở Hà Nội giá khá bình dân nhưng chất lượng làm tóc thì hiếm khi mà chê được. Xem qua những “feedback” của khách hàng, có thể thấy phần lớn đều hài lòng về sự phục vụ chu đáo của các nhân viên tiệm.",
+            "AverangeVote": 4.5,
+            "nameOwner": "Nguyễn Hữu Tiệp"
+        },
+        {
+            "salonId": 4,
+            "nameSalon": "Tiệp Nguyễn Hair Salon",
+            "phone": "0826368193",
+            "taxCode": "123",
+            "timeOpen": "08:00:00",
+            "timeClose": "20:00:00",
+            "city": "Hà Nội",
+            "district": "Hoàn Kiếm",
+            "dateJoin": "31/01/2017",
+            "detailAddress": "Số 60 Lê Duẩn, Quận Hoàn Kiếm, TP Hà Nội",
+            "email": "duymche130521@fpt.edu.vn",
+            "account_id": 5,
+            "image": "https://toplist.vn/images/800px/terre-hair-salon-429398.jpg",
+            "description": " là một địa chỉ cắt tóc nam ngắn đẹp ở Hà Nội giá khá bình dân nhưng chất lượng làm tóc thì hiếm khi mà chê được. Xem qua những “feedback” của khách hàng, có thể thấy phần lớn đều hài lòng về sự phục vụ chu đáo của các nhân viên tiệm.",
+            "AverangeVote": 4.5,
+            "nameOwner": "Nguyễn Hữu Tiệp"
+        }
+    ]
+    
+}

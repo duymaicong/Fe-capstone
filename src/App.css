@@ -1,0 +1,58 @@
+.main {
+  min-width: 1366px;
+
+}
+
+h1 {
+  font-family: "Cormorant Garamond", serif;
+}
+
+h2 {
+  font-size: 5rem;
+}
+
+a {
+  color: white;
+  font-weight: lighter;
+}
+
+.component {
+  background-image: url("./assets/paperbg.jpg");
+  background-size: cover;
+  min-height: 40rem;
+}
+
+.salon-page {
+  min-height: 60rem;
+  margin-left: 10%;
+}
+
+.admin-page {
+  background-image: url("./assets/introbg-1.jpg");
+  background-repeat: repeat-y;
+  background-size: 100%;
+  min-height: 60rem;
+  margin-top: 96px;
+}
+
+
+
+::-webkit-scrollbar {
+  width: 7px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #aaaaaa;
+  border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #aaaaaa;
+}

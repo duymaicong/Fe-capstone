@@ -1,0 +1,65 @@
+{
+    "data": [
+        {
+            "staffId": 1,
+            "salonId": 1,
+            "name": "staff",
+            "phone": "0826333333",
+            "address": null,
+            "possible": 1,
+            "title": "stylist",
+            "license": "https://www.semtek.com.vn/wp-content/uploads/2021/01/license-key-la-gi-2.jpg"
+        },
+        {
+            "staffId": 2,
+            "salonId": 1,
+            "name": "duy",
+            "phone": "0826368193",
+            "address": "tb",
+            "possible": 1,
+            "title": "hair stylist",
+            "license": "https://imabeautygeek.com/.image/t_share/MTM4OTYyNjIwNTAwNjgyMjMx/ontario-college-of-trades-hairstylist-certificate-of-membershipjpg.jpg"
+        },
+        {
+            "staffId": 7,
+            "salonId": 1,
+            "name": "z",
+            "phone": "0826368193",
+            "address": "hn",
+            "possible": 1,
+            "title": "hair stylist",
+            "license": "https://imabeautygeek.com/.image/t_share/MTM4OTYyNjIwNTAwNjgyMjMx/ontario-college-of-trades-hairstylist-certificate-of-membershipjpg.jpg"
+        },
+        {
+            "staffId": 12,
+            "salonId": 1,
+            "name": "staff",
+            "phone": "0826368193",
+            "address": "tb",
+            "possible": 1,
+            "title": "hair stylist",
+            "license": "https://imabeautygeek.com/.image/t_share/MTM4OTYyNjIwNTAwNjgyMjMx/ontario-college-of-trades-hairstylist-certificate-of-membershipjpg.jpg"
+        },
+        {
+            "staffId": 14,
+            "salonId": 1,
+            "name": "staff",
+            "phone": "0826368193",
+            "address": "tb",
+            "possible": 1,
+            "title": "hair stylist",
+            "license": "https://imabeautygeek.com/.image/t_share/MTM4OTYyNjIwNTAwNjgyMjMx/ontario-college-of-trades-hairstylist-certificate-of-membershipjpg.jpg"
+        },
+        {
+            "staffId": 15,
+            "salonId": 1,
+            "name": "staff n",
+            "phone": "0989981112",
+            "address": "tb",
+            "possible": 1,
+            "title": "ok",
+            "license": null
+        }
+    ],
+    "success": "get staff success"
+}
